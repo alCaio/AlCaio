@@ -1,5 +1,5 @@
 
-### Olá ! 👋 Olá! Sou Caio Alves 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FIAP 🎓 Cursando Pós-Graduação em Arquitetura de Software com .NET 💻 Desenvolvo atualemnte c# 
+### Olá ! 👋 Olá! Sou Caio Alves 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FIAP 🎓 Cursando Pós-Graduação em Arquitetura de Software com .NET 💻 Desenvolvo atualmente c# 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-alves-8bb313204/)
